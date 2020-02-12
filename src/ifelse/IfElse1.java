@@ -18,7 +18,7 @@ public class IfElse1 {
 		}*/
 		
 		
-		System.out.println(+ """" +);
+	
 		
 		
 		int age = 20;
